@@ -32,16 +32,16 @@ where "url you just copied" (without the quote marks) is the url to this reposit
 
 For example:
 ```
-git clone https://github.com/this-is-you/firstcontributions.git
+git clone https://github.com/this-is-you/dsc-githubproject.git
 ```
-where `this-is-you` is your GitHub username. Here you're copying the contents of the firstcontributions repository in GitHub to your computer.
+where `this-is-you` is your GitHub username. Here you're copying the contents of the dsc-githubproject repository in GitHub to your computer.
 
 ## Create a branch
 
 Change to the repository directory on your computer (if you are not already there):
 
 ```
-cd firstcontributions
+cd dsc-githubproject
 ```
 Now create a branch using the `git checkout` command:
 ```
