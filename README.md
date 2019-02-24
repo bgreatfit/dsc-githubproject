@@ -1,5 +1,5 @@
 
-# Git/GitHub for Beginners First Contributions Project
+# Git-GitHub for Beginners First Contributions Project
 
 
 #### *If you're not comfortable with command line, [here are tutorials using GUI tools.]( #tutorials-using-other-tools )*
